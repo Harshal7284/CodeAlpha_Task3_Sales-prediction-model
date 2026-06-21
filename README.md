@@ -1,6 +1,6 @@
 # Sales Price Prediction 📈
 
-An interactive Machine Learning web application that predicts product sales based on advertising investments across TV, covergae Radio, and Newspaper channels. Built with a Multiple Linear Regression model, this project features a dynamic, slider-based UI that provides real-time sales estimations and visualizes the contribution of each advertising channel.
+An interactive Machine Learning web application that predicts product sales based on advertising investments across TV, Radio, and Newspaper channels. Built with a Multiple Linear Regression model, this project features a dynamic, slider-based UI that provides real-time sales estimations and visualizes the contribution of each advertising channel.
 
 ## 📂 Project Structure
 
