@@ -2,6 +2,8 @@
 
 An interactive Machine Learning web application that predicts product sales based on advertising investments across TV, Radio, and Newspaper channels. Built with a Multiple Linear Regression model, this project features a dynamic, slider-based UI that provides real-time sales estimations and visualizes the contribution of each advertising channel.
 
+
+
 ## 📂 Project Structure
 
 * **`app.py`**: The Flask backend that serves the application, calculates dataset statistics, and handles prediction requests via a RESTful API endpoint (`/api/predict`).
