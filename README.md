@@ -4,6 +4,7 @@ An interactive Machine Learning web application that predicts product sales base
 
 ---
 
+
 ## 📂 Project Structure
 
 * **`app.py`**: The Flask backend that serves the application, calculates dataset statistics, and handles prediction requests via a RESTful API endpoint (`/api/predict`).
