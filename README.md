@@ -7,6 +7,7 @@ An interactive Machine Learning web application that predicts product sales base
 
 ## 📂 Project Structure
 
+
 * **`app.py`**: The Flask backend that serves the application, calculates dataset statistics, and handles prediction requests via a RESTful API endpoint (`/api/predict`).
 * **`Sales Price Prediction.ipynb`**: The Jupyter Notebook used for exploratory data analysis, data visualization, and training the Linear Regression model.
 * **`sales_prediction.pkl`**: The serialized scikit-learn Machine Learning model that powers the predictions.
