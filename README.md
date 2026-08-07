@@ -4,7 +4,6 @@ An interactive Machine Learning web application that predicts product sales base
 
 ---
 
-
 ## 📂 Project Structure
 
 
