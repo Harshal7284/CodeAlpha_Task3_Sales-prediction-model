@@ -31,6 +31,8 @@ An interactive Machine Learning web application that predicts product sales base
 * **Backend & ML:** Python, Flask, scikit-learn, pandas
 * **Frontend:** HTML5, CSS3, JavaScript (Fetch API)
 
+---
+
 ## 💻 How to Run Locally
 
 Follow these steps to get the application running on your local machine:
